@@ -1,0 +1,22 @@
+
+#photo-template {
+    background-color: #eee;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+  }
+  #photo-template h2 {
+    background-color: #b7efcd;
+    border-radius: 10%;
+  }
+  
+  #imgId {
+    border-radius: 2%;
+    box-shadow: 0 5px 5px 0 black;
+  }
+  div p {
+    font-size: small;
+    line-height: 1em;
+    text-align: center;
+   
+  }
+  

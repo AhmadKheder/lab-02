@@ -1,0 +1,24 @@
+
+#photo-template {
+    width: 20%;
+    margin: 15px;
+  }
+  #photo-template h2 {
+    margin: 12px;
+    text-align: center;
+   
+  }
+  
+  #photo-template img {
+    width: 180px;
+    height: 180px;
+  }
+  #imgId {
+    margin: auto 5%;
+  }
+  div p {
+    margin: 15px auto;
+    text-align: center;
+   
+  }
+  
